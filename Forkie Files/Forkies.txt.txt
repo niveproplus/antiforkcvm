@@ -1,0 +1,50 @@
+[NekoVM] [Fixtux // VM, 2025]
+Has multiple alts and admited (and has abused vote resets)
+Ban evader? Says adaptive IP and proxies.
+Added passwords to accounts 
+Used the reset option in Windows recovery multiple times (only does this when it keeps booting into recovery)
+Made Windows almost unusable, making EXEs stop running and only the desktop experience, Microsoft Store and UWP apps runned.
+
+[Pou9esteban] [CollabVM, 2025]
+Multiple BSODs (on anarchy vm0b0t and possibly other VMs)
+Added passwords to accounts
+Done 'rd /s /q C:' in CMD
+
+[Youneedtologin] [Fixtux // VM, 2025]
+Attempted to delete Windows and System32 using File Explorer
+Done multiple dangerous commands in CMD (failed to make VM unusable)
+Successfully made VM unusable (possibly? reason how is unkown)
+
+[A2025] [Fixtux // VM, 2025]
+Changed password many times 
+Did BSODs 
+
+[I forgot who, possibly A2025 or JoaquimNicacio] [Fixtux // VM, 2025]
+Opened virus
+
+[sdyg] [Fixtux // VM, 2025]
+Did del /s /q C: (which usually broke the VM, if someone didn't stop him before it deleted a specific file)
+BSODs
+
+[Kristina29] [Fixtux // VM, ????-2025]
+Did an unkown destructive action. I don't know what she did.
+
+[Windows110User96466] [Fixtux // VM,  2025]
+Changed password
+Did an unkown destructive action. I don't know what he did.
+
+[Connections]
+Pou9esteban on CollabVM may be A2025? Maybe they are the same persons, just with different username and platforms.
+
+
+[???] [Fixtux // VM, 2025]
+Can restart router to bypass bans
+Admits to being a alt
+Changed passwords
+Made OSDATA
+failed to destroy VM
+
+[ale3Ob] [ale30b] [Fixtux // VM, 2025]
+Changed password
+failed to destroy VM
+destroyed VM
