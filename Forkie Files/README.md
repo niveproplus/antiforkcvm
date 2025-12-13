@@ -1,5 +1,23 @@
 # Forkie Files
 
-This folder exists to store assets and files related to the "Forkie" feature. This README is a placeholder to ensure the folder is tracked by Git.
+This folder exists to store assets and files related to Forkies.
+I AM STU PID
+PID
+TASKMRGRRGRGRGGEHR
+TT
 
-Add files here as needed.
+T
+R
+R
+R
+
+T
+R
+R
+R
+R
+R
+R
+
+NO NO ONOONONONNOONNOONONNOONNO 
+GITHUB
